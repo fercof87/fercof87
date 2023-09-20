@@ -11,7 +11,6 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="max-width: 100%;">
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/github.svg" alt="GitHub" style="width: 107px; height: 32px;">  
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudio.svg" alt="VisualStudio" style="width: 107px; height: 32px;">  
 </div>
 
 <hr />
