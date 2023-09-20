@@ -10,7 +10,6 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/mysql.svg" alt="MySql" style="width: 107px; height: 32px; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="max-width: 100%; margin-right: 10px;">
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/github.svg" alt="GitHub" style="width: 107px; height: 32px; margin-right: 10px;">  
 </div>
 
 <hr />
