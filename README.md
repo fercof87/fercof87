@@ -6,7 +6,8 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/r.svg" alt="R" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rsoftware.svg" alt="R-Software" style="max-width: 100%;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/tools/docker.svg" alt="Docker" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/services/dockerhub.svg" alt="DockerHub" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/services/aws.svg" alt="Aws" style="max-width: 100%;">
 </div>
 
