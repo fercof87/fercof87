@@ -4,7 +4,7 @@
 
 <div align="center" style="margin-bottom: 10px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="max-width: 100%;">
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/cpp.svg" alt="C++">
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/cpp.svg" alt="C++" style="max-width: 10%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/r.svg" alt="R" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rsoftware.svg" alt="R-Software" style="max-width: 100%;">
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/mysql.svg" alt="MySql" style="max-width: 100%;">
