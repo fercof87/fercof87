@@ -6,8 +6,6 @@
 
 <h2>About Me 🚀</h2>
 
----
-
 Hello! I'm Fernando Gabriel Cofone, an Information Technology Engineer recently graduated from the Data Science bootcamp. With over 10 years of experience in the field of Information Technology (IT), I've held diverse roles, ranging from Analyst Programmer to Project Manager.
 
 My analytical and proactive approach has led me to develop a passion for statistics, data, and their manipulation. I'm seeking to evolve as a Data Engineer and MLOps Engineer, engaging in challenging and disruptive projects that allow me to apply and expand my skills.
