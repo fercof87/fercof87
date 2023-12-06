@@ -92,9 +92,11 @@
 
 <hr /><br>
 <div align="left">
-  - 👀 I’m interested in **AI**, **startups** and **Data-World**.
-  - 🤖 I’m currently learning **Machine learning and Deep Learning**.
-  - 💪 I’m looking to collaborate on something **new** and **disrupting**.
+  <ul style="list-style-type: disc; margin-left: 20px;">
+    <li>👀 I’m interested in <strong>AI</strong>, <strong>startups</strong>, and the <strong>Data-World</strong>.</li>
+    <li>🤖 I’m currently learning <strong>Machine learning and Deep Learning</strong>.</li>
+    <li>💪 I’m looking to collaborate on something <strong>new</strong> and <strong>disrupting</strong>.</li>
+  </ul>
 </div>
 <br><hr />
 
