@@ -26,20 +26,15 @@
 </div>
 <hr />
 
+<div align="center">
+  <a href="https://github.com/fercof87/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fercof87" />
+  </a>
+  <a href="https://github.com/fercof87/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fercof87&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
-<a href="https://github.com/fercof87/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fercof87" />
-</a>
-<a href="https://github.com/fercof87/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fercof87&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/fercof87/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fercof87&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/fercof87/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fercof87&repo=convoychat" />
-</a>
 
 
 
