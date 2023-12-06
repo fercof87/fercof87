@@ -60,7 +60,6 @@
     <li>💪 I’m looking to collaborate on something <strong>new</strong> and <strong>disrupting</strong>.</li>
   </ul>
 </div>
-<br>
 <hr>
 <h3 align="center">📫 Reach me out:</h3>
 <div align="center">
