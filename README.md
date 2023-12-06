@@ -51,7 +51,6 @@
   </a>
 </div>
 
-<br>
 <h2>I'm looking for... 🔎</h2>
 <div align="left">
   <ul style="list-style-type: disc; margin-left: 20px;">
