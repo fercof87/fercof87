@@ -90,7 +90,8 @@
   </a>
 </div>
 
-<hr /><br>
+<br>
+<h2>I'm looking for... 🔎</h2>
 <div align="left">
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li>👀 I’m interested in <strong>AI</strong>, <strong>startups</strong>, and the <strong>Data-World</strong>.</li>
