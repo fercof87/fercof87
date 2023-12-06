@@ -26,6 +26,16 @@
 </div>
 <hr />
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fercof87&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fercof87&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+
+
 - 👀 I’m interested in **AI**, **startups** and **Data-World**.
 - 🤖 I’m currently learning **Machine learning and Deep Learning**.
 - 💪 I’m looking to collaborate on something **new** and **disrupting**.
