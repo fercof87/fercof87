@@ -2,6 +2,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fercof87&label=Profile%20views&color=0e75b6&style=flat" alt="fercof87" /> </p>
 <h3 align="center">A passionate Startupper & Software Engineer from Argentina</h3>
 
+<details>
+  <summary>About Me</summary>
+    Hello! I'm Fernando Gabriel Cofone, an Information Technology Engineer recently graduated from the Data Science bootcamp. With over 10 years of experience in the field of Information Technology (IT), I've held diverse roles, ranging from Analyst Programmer to Project Manager.
+    My analytical and proactive approach has led me to develop a passion for statistics, data, and their manipulation. I'm seeking to evolve as a Data Engineer and MLOps Engineer, engaging in challenging and disruptive projects that allow me to apply and expand my skills.
+    Furthermore, I have a strong calling for leadership and project management. I thrive on facing new challenges and leading teams to success. 🌟
+</details>
+
 <div align="center" style="margin-bottom: 10px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/cpp.svg" alt="C++" style="width: 107px; height: 32px; margin-right: 10px;">
