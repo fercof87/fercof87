@@ -27,7 +27,7 @@
 <hr />
 
 
-<div style="width: 45%; display: inline-block; margin-right: 5px;">
+<div style="width: 45%; display: inline-block; margin-right: 5px;align="center";">
   <a href="https://github.com/fercof87/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fercof87&theme=tokyonight" />
   </a>
