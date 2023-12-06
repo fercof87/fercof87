@@ -10,7 +10,7 @@
   Furthermore, I have a strong calling for leadership and project management. I thrive on challenges and lead teams to success 🌟. <br>
 </p>
 
-<hr />
+<h2>Tech-Skills 👨‍🚀</h2>
 <div align="center" style="margin-bottom: 10px">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="max-width: 100%; margin-right: 10px;">
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" style="max-width: 100%; margin-right: 10px;">
