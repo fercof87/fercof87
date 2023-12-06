@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I’m Fernando 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fercof87&label=Profile%20views&color=0e75b6&style=flat" alt="fercof87" /> </p>
 <h3 align="center">A passionate Startupper & Software Engineer from Argentina</h3>
-<hr />
 
 <h2>About Me 👨‍💻</h2>
 <p align="justify">
@@ -20,7 +19,6 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/mysql.svg" alt="MySql" style="width: 107px; height: 32px; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="max-width: 100%; margin-right: 10px;">
-  [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1.10.15-blue)](https://airflow.apache.org/)
 </div>
 <hr />
 
