@@ -7,7 +7,7 @@
 <p align="justify">
   Hello! 👋 I'm Fernando Gabriel Cofone 🤵, an Information Technology Engineer recently graduated 👨‍🎓 from the Data Science bootcamp.<br><br>
   With over 10 years of experience in the field of Information Technology (IT), I've held diverse roles, ranging from Analyst Programmer to Project Manager.<br><br>
-  My analytical and proactive approach has led me to develop a passion for statistics, data, and their manipulation. I'm on a journey to evolve as a Data Engineer and MLOps Engineer, engaging in challenging and disruptive projects that allow me to apply and expand my skills.<br><br>
+  My analytical and proactive approach has led me to develop a passion for statistics 📊, data, and their manipulation. I'm on a journey to evolve as a Data Engineer 🔧 and MLOps Engineer 🤖, engaging in challenging and disruptive projects that allow me to apply and expand my skills.<br><br>
   Furthermore, I have a strong calling for leadership and project management. I thrive on challenges and lead teams to success 🌟. <br>
 </p>
 
@@ -17,10 +17,10 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/cpp.svg" alt="C++" style="width: 107px; height: 32px; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/r.svg" alt="R" style="max-width: 100%; margin-right: 10px;">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rsoftware.svg" alt="R-Software" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/mysql.svg" alt="MySql" style="width: 107px; height: 32px; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="max-width: 100%; margin-right: 10px;">
+  [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-🌬️-blue)](https://airflow.apache.org/)
 </div>
 <hr />
 
