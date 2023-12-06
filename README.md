@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m Fernando 👋</h1>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fercof87&label=Profile%20views&color=0e75b6&style=flat" alt="fercof87" /> </p>
 <h3 align="center">A passionate Startupper & Software Engineer from Argentina</h3>
 
@@ -89,22 +90,18 @@
   </a>
 </div>
 
-<hr />
-<br/>
-- 👀 I’m interested in **AI**, **startups** and **Data-World**.
-- 🤖 I’m currently learning **Machine learning and Deep Learning**.
-- 💪 I’m looking to collaborate on something **new** and **disrupting**.
-<br/>
-<hr />
+<hr /><br>
+<div align="left">
+  - 👀 I’m interested in **AI**, **startups** and **Data-World**.
+  - 🤖 I’m currently learning **Machine learning and Deep Learning**.
+  - 💪 I’m looking to collaborate on something **new** and **disrupting**.
+</div>
+<br><hr />
 
-<br><br>
+<br>
 <h3 align="center">📫 Reach me out:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/fercof87/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
   </a>
 </div>
-
-<!--
-**fercof87/fercof87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
