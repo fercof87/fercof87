@@ -20,13 +20,12 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="max-width: 100%; margin-right: 10px;">
 </div>
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <hr />
 
-<div style="width: 45%; display: inline-block; margin-right: 5px;">
-  <a href="https://github.com/fercof87/github-readme-stats">
+<a href="https://github.com/fercof87/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fercof87&theme=tokyonight" />
-  </a>
-</div>
+</a>
 
 <hr />
 
