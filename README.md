@@ -20,14 +20,34 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="Docker" style="max-width: 100%; margin-right: 10px;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="max-width: 100%; margin-right: 10px;">
 </div>
--![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<hr />
+
+
+<hr />
+<div align="center" style="margin-bottom: 10px">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" style="width: 107px; height: 32px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" alt="Airflow" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" alt="GCP" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="Numpy" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white" alt="Matplotlib" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white" alt="Seaborn" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white" alt="SQL" style="max-width: 100%; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white" alt="NoSQL" style="max-width: 100%;">
+</div>
 <hr />
 
 <div align="center">
   <a href="https://github.com/fercof87/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fercof87&theme=tokyonight" />
   </a>
-<div/>
+</div>
 
 <hr />
 
