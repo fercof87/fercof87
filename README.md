@@ -13,34 +13,34 @@
 
 <h2>Tech-Skills 👨‍🚀</h2>
 <div align="center" style="margin-bottom: 10px;">
-  
+
   <!-- Primera línea (8 elementos) -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" alt="Airflow" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" alt="GCP" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="Numpy" style="width: 80px; height: 40px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" alt="Airflow" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" alt="GCP" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="Numpy" style="width: 100px; height: 30px; margin-right: 10px;">
   <br>
   <!-- Segunda línea (6 elementos) -->
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white" alt="Matplotlib" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white" alt="Seaborn" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white" alt="SQL" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white" alt="NoSQL" style="width: 80px; height: 40px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white" alt="Matplotlib" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white" alt="Seaborn" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white" alt="SQL" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white" alt="NoSQL" style="width: 100px; height: 30px; margin-right: 10px;">
   <br>
   <!-- Tercera línea (4 elementos) -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Hadoop-FC6526?logo=apache-hadoop&logoColor=white" alt="Hadoop" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white" alt="Power BI" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Looker-0051AB?logo=looker&logoColor=white" alt="Looker" style="width: 80px; height: 40px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Hadoop-FC6526?logo=apache-hadoop&logoColor=white" alt="Hadoop" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white" alt="Power BI" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Looker-0051AB?logo=looker&logoColor=white" alt="Looker" style="width: 100px; height: 30px; margin-right: 10px;">
   <br>
   <!-- Cuarta línea (2 elementos) -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" style="width: 80px; height: 40px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" style="width: 100px; height: 30px; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" style="width: 100px; height: 30px; margin-right: 10px;">
 
 </div>
 
