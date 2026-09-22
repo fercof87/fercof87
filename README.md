@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I’m Fernando 👋</h1>
 
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fercof87&label=Profile%20views&color=0e75b6&style=flat" alt="fercof87" />
 </p>
@@ -82,7 +84,7 @@
 <h2>Generative AI & AI Engineering 🤖</h2>
 
 <div align="center">
-
+  <br>
   <img src="https://img.shields.io/badge/Generative_AI-412991?logo=openai&logoColor=white" alt="Generative AI" height="28">
   &nbsp;
   <img src="https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white" alt="LLMs" height="28">
@@ -114,7 +116,7 @@
 <h2>Tech Skills 👨‍🚀</h2>
 
 <div align="center">
-
+  <br>
   <!-- Generative AI -->
   <img src="https://img.shields.io/badge/Generative_AI-412991?logo=openai&logoColor=white" alt="Generative AI" height="28">
   &nbsp;
